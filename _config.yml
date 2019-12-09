@@ -1,12 +1,12 @@
 ---
 version: 4.0.0
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
+name: The Coco Programming Language
+description: Purely Functional & Strongly Typed
 url: https://coco-lang.github.io
 repository: https://github.com/pzque/coco
 timezone: America/Los_Angeles
 twitter:
-  username: jekyllrb
+  username: pzque
 logo: "/img/logo.png"
 google_analytics_id: UA-50755011-1
 google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
